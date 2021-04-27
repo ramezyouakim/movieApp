@@ -24,3 +24,5 @@ try cd android
 then run ./gradlew clean
 
 Please let me know if you faced any issue running this project
+
+FYI there is transition animation only on ios
